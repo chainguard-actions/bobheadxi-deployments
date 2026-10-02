@@ -9,6 +9,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
 | v1 | [`v1`](https://github.com/chainguard-actions/bobheadxi-deployments/tree/v1) | [`648679e`](https://github.com/bobheadxi/deployments/commit/648679e8e4915b27893bd7dbc35cb504dc915bc8) |
+| v1.5.0 | [`v1.5.0`](https://github.com/chainguard-actions/bobheadxi-deployments/tree/v1.5.0) | [`648679e`](https://github.com/bobheadxi/deployments/commit/648679e8e4915b27893bd7dbc35cb504dc915bc8) |
 
 ## Privacy
 
