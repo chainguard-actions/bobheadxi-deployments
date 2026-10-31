@@ -6,10 +6,10 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 ## Versions
 
-| Version | Tag | Upstream commit |
-|---------|-----|-----------------|
-| v1 | [`v1`](https://github.com/chainguard-actions/bobheadxi-deployments/tree/v1) | [`648679e`](https://github.com/bobheadxi/deployments/commit/648679e8e4915b27893bd7dbc35cb504dc915bc8) |
-| v1.5.0 | [`v1.5.0`](https://github.com/chainguard-actions/bobheadxi-deployments/tree/v1.5.0) | [`648679e`](https://github.com/bobheadxi/deployments/commit/648679e8e4915b27893bd7dbc35cb504dc915bc8) |
+| Version | Tag | Upstream commit | Hardening report |
+|---------|-----|-----------------|------------------|
+| v1 | [`v1`](https://github.com/chainguard-actions/bobheadxi-deployments/tree/v1) | [`648679e`](https://github.com/bobheadxi/deployments/commit/648679e8e4915b27893bd7dbc35cb504dc915bc8) | [`HARDENING.md`](https://github.com/chainguard-actions/bobheadxi-deployments/blob/v1/HARDENING.md) |
+| v1.5.0 | [`v1.5.0`](https://github.com/chainguard-actions/bobheadxi-deployments/tree/v1.5.0) | [`648679e`](https://github.com/bobheadxi/deployments/commit/648679e8e4915b27893bd7dbc35cb504dc915bc8) | [`HARDENING.md`](https://github.com/chainguard-actions/bobheadxi-deployments/blob/v1.5.0/HARDENING.md) |
 
 ## Privacy
 
