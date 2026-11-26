@@ -1,6 +1,16 @@
 {
   "owner": "bobheadxi",
   "repo": "deployments",
-  "version": "",
-  "url": "https://github.com/bobheadxi/deployments"
+  "version": "v1.4.0",
+  "commit_sha": "88ce5600046c82542f8246ac287d0a53c461bca3",
+  "url": "https://github.com/bobheadxi/deployments",
+  "policy_sha": "374911c4be584df24e6da57af2d990570ef0f859",
+  "test_policy_sha": "843adf9e4b8f85d0c08b27b9d0b09dd094b54702",
+  "test_agent_version": "2",
+  "harden_agent_version": "2",
+  "dist_artifact": {
+    "gcs_uri": "gs://patch-actions-node-artifacts/dist-artifacts/bobheadxi/deployments/v1.4.0/sha256-0240efd1135184be5dba0166ca421ba20f319586b597b14b0c24d7018c8fb7b6.tar.gz",
+    "sha256": "0240efd1135184be5dba0166ca421ba20f319586b597b14b0c24d7018c8fb7b6",
+    "size_bytes": 258339
+  }
 }
